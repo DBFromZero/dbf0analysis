@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 figures/
 results/
+intermediate/
+__pycache__/
