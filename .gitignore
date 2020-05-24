@@ -3,3 +3,5 @@ figures/
 results/
 intermediate/
 __pycache__/
+venv/
+.idea/

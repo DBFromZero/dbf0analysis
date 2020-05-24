@@ -2,6 +2,7 @@ accumulation-tree==0.6.2
 attrs==19.3.0
 backcall==0.1.0
 bleach==3.1.5
+csaps==0.11.0
 cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
@@ -43,12 +44,15 @@ pyudorandom==1.0.0
 pyzmq==19.0.1
 qtconsole==4.7.4
 QtPy==1.9.0
+scipy==1.4.1
+seaborn==0.10.1
 Send2Trash==1.5.0
 six==1.15.0
 tdigest==0.5.2.2
 terminado==0.8.3
 testpath==0.4.4
 tornado==6.0.4
+tqdm==4.46.0
 traitlets==4.3.3
 wcwidth==0.1.9
 webencodings==0.5.1
