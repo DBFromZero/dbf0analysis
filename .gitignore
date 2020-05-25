@@ -1,3 +1,7 @@
 .ipynb_checkpoints/
 figures/
 results/
+intermediate/
+__pycache__/
+venv/
+.idea/
